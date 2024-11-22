@@ -10,7 +10,6 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "mocha --recursive --exit",
     "sonar": "sonar-scanner"
   },
   "author": "riaan@entersekt.com",
